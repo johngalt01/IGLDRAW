@@ -1,10 +1,16 @@
 # IGLDRAW
 IGL is a very old image format used for plotters but can be viewed on a glass terminal.
 
-This basic program is designed to work with the FABGL ANSI Terminal.
+This basic program is designed to work with the FABGL ANSI Terminal and GEOFF Terminal.
+make sure to set your CAPS-LOCK when running the program.
+
+press 'Q' to exit drawing before finished.
 
 there are 7 Demo art files.
-when you run the program you can also use these settings. to get a better image on your screen.
+if you run these on a GEOFF TERMINAL set your mode to VGA 36 lines and use SCALE .5 with offsets X,Y set to Zero.
+you can then play with the scaling after you see how the image fits on your monitor.
+
+When you run the program you can also use these settings for FABGL ANSI TERMINAL. to get a better image on your screen.
 
 CCT
 SCALE: 1
