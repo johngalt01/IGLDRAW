@@ -7,7 +7,7 @@ make sure to set your CAPS-LOCK when running the program.
 press 'Q' to exit drawing before finished.
 
 there are 7 Demo art files.
-if you run these on a GEOFF TERMINAL set your mode to VGA 36 lines and use SCALE .5 with offsets X,Y set to Zero.
+if you run these on a GEOFF TERMINAL set your mode to VGA 24 lines and use SCALE .5 with offsets X,Y set to Zero.
 you can then play with the scaling after you see how the image fits on your monitor.
 
 When you run the program you can also use these settings for FABGL ANSI TERMINAL. to get a better image on your screen.
